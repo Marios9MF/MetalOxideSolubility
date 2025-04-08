@@ -25,7 +25,7 @@ It is always useful to have a description of the dataset for reference where eac
 
 ## How to use the notebook
 A method I have found since using GitHub "properly" for the first time is to use Git on you computer and make a copy of the whole repository with command *git clone <link>*.
-I will  work on the offline copy and then upload the directory to my Git/GitHub account using the command *git push origin <branch name>*
+I will  work on the offline copy and then upload the directory to my Git/GitHub account using the command *git push origin "branch name"*
 Before finish the day, I assume it will be necessary to commit the changes which is different from simply uploading a file???? **YES**
 
 Here is the workflow
@@ -34,4 +34,4 @@ Here is the workflow
 2. *Work on files*
 3. *git add .*                         Creates and index of files to be updated for the whole working folder (if . is used). Change . with specific filename to "queue" only specific files.
 4. *git commit -m "COMMENT HERE"*      Commits changes. From modified to permanent change
-5. *git push origin <branch>*          Uploads the commited files as in index (see step 3) to the remote repository
+5. *git push origin "branch name"*          Uploads the commited files as in index (see step 3) to the remote repository
