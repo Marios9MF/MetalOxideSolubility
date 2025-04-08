@@ -22,3 +22,8 @@ It is always useful to have a description of the dataset for reference where eac
 - Solubility Category: The target variable, indicating whether the metal oxide is "Highly Soluble" or "Poorly Soluble" in neutral water.
 
   I understand this dataset as I am  BSc, MSc and PhD in Chemistry/Materials Chemistry
+
+## How to use the notebook
+A method I have found since using GitHub "properly" for the first time is to use Git on you computer and make a copy of the whole repository with command git clone <link>.
+I will  work on the offline copy and then upload the directory to my Git/GitHub account using the command git <>
+Before finish the day, I assume it will be necessary to commit the changes which is different from simply uploading a file????
